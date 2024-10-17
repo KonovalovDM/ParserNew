@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e561b9b-9aec-4335-94c5-036f466e016c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ParserNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_154515.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_160400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_160448.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_160734.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135322.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135613.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_143953.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_160124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_151452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_151455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_152655.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_152727.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nZnWHLFhVZNofPfBL6FBE2mScO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Дмитрий/PycharmProjects/TgBotNew/ParserNew/Massandra_Palace"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Дмитрий\PycharmProjects\TgBotNew\ParserNew\Massandra_Palace" />
+      <recent name="C:\Users\Дмитрий\PycharmProjects\TgBotNew\ParserNew\Mount_Ai-Petri" />
+      <recent name="C:\Users\Дмитрий\PycharmProjects\TgBotNew\ParserNew\Chersonesos_Taurica" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e561b9b-9aec-4335-94c5-036f466e016c" name="Changes" comment="" />
+      <created>1729189496257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729189496257</updated>
+    </task>
+    <servers />
+  </component>
+</project>
