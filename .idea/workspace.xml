@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e561b9b-9aec-4335-94c5-036f466e016c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ParserNew.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_154515.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_160400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_160448.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chersonesos_Taurica/IMG_20220619_160734.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135322.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135536.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135613.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_135917.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_143953.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Massandra_Palace/IMG_20220617_160124.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_151452.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_151455.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_152655.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mount_Ai-Petri/IMG_20220621_152727.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="1e561b9b-9aec-4335-94c5-036f466e016c" name="Changes" comment="add new sites">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +64,30 @@
       <option name="presentableId" value="Default" />
       <updated>1729189496257</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new sites">
+      <option name="closed" value="true" />
+      <created>1729197544865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729197544865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new sites" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new sites" />
   </component>
 </project>
